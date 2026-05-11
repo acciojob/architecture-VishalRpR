@@ -4,7 +4,6 @@
 }
 
 .imageContainer{
-	 background-image:url("https://plus.unsplash.com/premium_photo-1777559750266-0aeafa4915d1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 	height:200px;
 	width:400px;
 }
@@ -15,6 +14,10 @@
 	width:200px;
 }
 
+img{
+	height:200px;
+	width:200px;
+}
 
 .cent{
 	width:600px;
